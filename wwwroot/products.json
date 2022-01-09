@@ -1,0 +1,185 @@
+[
+ {
+     "Id" : "LG3245",
+	 "ProductName": "TV", 
+	 "GraphicName" : "77 LG OLED TV C9 ThinQ AI",
+	 "CostPrice" : 1430.70,
+	"MSRP" : 1900.99,
+	"QtyOnHand" : 2000,
+	 "QtyOnBackOrder" : 8,
+	 "Description" : "Perfect Black, α9 Gen 2 Intelligent Processor, AI Smart, webOS® 4.5 and Magic Remote, Dolby Vision and Dolby Atmos, and Premium Design",
+   "BRAND" : "LG"
+  },
+  
+    {
+         "Id" : "LG3246",
+	  "ProductName" : "Front Load Washer", 
+	 "GraphicName" : "Single Unit Front Load LG WashTower™ with Centre Control™ 5.2 cu. ft. Washer and 7.4 cu. ft. Electric Dryer" , 
+	 "CostPrice" : 2800.99,
+	 	"MSRP" : 3199.99,
+	"QtyOnHand" :  678,
+	  "QtyOnBackOrder" : 10,
+	 "Description" : "Ultra Large Capacity 5.2 cu.ft. Washer and 7.4 cu.ft. Dryer and Single Unit WashTower Design with Centre Control Panel for Easier Load/Unload to",
+   "BRAND" : "LG"
+    },
+    {
+     "Id" : "LG3247",
+	 "ProductName" : "Air Conditioner", 
+	 "GraphicName" :"DUALCOOL PRESTIGE 12,000 BTU, ThinQ, -30 Hyper Heating operation" , 
+	 "CostPrice":700.70,
+	 "MSRP" : 1200.40,
+	 "QtyOnHand" : 4690,
+	 "QtyOnBackOrder" : 109,
+	 "Description" : "LG ThinQ, Fast, Powerful Cooling and Heating, Energy Saving, Low Noise, Stylish Design, 10 Year Warranty",
+    "BRAND" : "LG"
+   },
+
+	{
+        "Id" : "LG3248",
+	 "ProductName" : "Refrigerator", 
+	 "GraphicName" : "28 cu.ft. Smart wi-fi Enabled French Door Refrigerator",
+	 "CostPrice" :  2899.90,
+	  "MSRP" : 3599.00,
+	  "QtyOnHand" : 1000,
+	  "QtyOnBackOrder" :88,
+	 "Description" :"Stock-up and store everything you need. With a cavernous 28 cubic feet of space, this LG French Door refrigerator gives you ample space for all of your family’s favorite foods and keeps them conveniently organized and within reach",
+	 "BRAND" : "LG"
+	},
+
+	{
+        "Id" : "LGV3249",
+        "ProductName" : "Vacuum", 
+	    "GraphicName" : "LG CordZero A9 Charge Plus Cordless Stick Vacuum",
+	    "CostPrice" :  2899.90,
+	    "MSRP" : 3599.00,
+	    "QtyOnHand" : 1000,
+	    "QtyOnBackOrder" :88,
+	    "Description" : "urn the vacuum on and off easily, or select different power levels, including Turbo mode, with the touch of a thumb. That means less strain on your hand and a more comfortable clean",
+	    "BRAND" : "LG"
+	},
+    
+  {
+      "Id" : "AppW4245",
+  "ProductName" : "Apple Watch", 
+	 "GraphicName" : "Apple Watch SE",
+	 "CostPrice" :  200.70,
+	  "MSRP" : 369.99,
+	  "QtyOnHand" : 3000,
+	  "QtyOnBackOrder" :15,
+	 "Description" :"44mm or 40mm case size, Retina display, GPS + Cellular1",
+	 "BRAND" : "Apple"
+  
+  },
+	{
+         "Id" : "AppArp4246",
+  "ProductName" : "Apple AirPods Pro", 
+	 "GraphicName" : "Apple AirPods Pro",
+	 "CostPrice" :  200.70,
+	  "MSRP" :  279.99,
+	  "QtyOnHand" : 700,
+	  "QtyOnBackOrder" : 40,
+	 "Description" :"Active Noise Cancellation for immersive sound. Transparency mode for hearing and connecting with the world around you",
+	 "BRAND" : "Apple"
+   },
+   
+	{
+         "Id" : "AppIpa4247",
+     "ProductName" : "iPad Pro", 
+	 "GraphicName" : "iPad Pro The ultimate iPad experience",
+	 "CostPrice" :  801,
+	  "MSRP" :  999,
+	  "QtyOnHand" : 308,
+	  "QtyOnBackOrder" : 15,
+	 "Description" : "Two sizes. Two industry-leading displays.The 11 display gives you an immersive and portable experience. And the 12.9 XDR display is a stunning and expansive way to view HDR content",
+	 "BRAND" : "Apple"
+  
+  
+  
+  },
+	 {
+          "Id" : "AppHM4248",
+   "ProductName" : "HomePod mini", 
+	 "GraphicName" : "HomePod mini",
+	 "CostPrice" : 98.70,
+	  "MSRP" :  129.99,
+	  "QtyOnHand" :700,
+	  "QtyOnBackOrder" : 7,
+	 "Description" :"Room-filling, 360-degree sound. Place HomePod mini speakers around the house for rich multi-room audio1 and features like Intercom",
+   "BRAND" : "Apple"
+   },
+   
+	 {
+          "Id" : "AppPen4249",
+   "ProductName" : "Apple Pencil 2nd generation", 
+	 "GraphicName" : "Apple Pencil 2nd generation",
+	 "CostPrice" :  150,
+	  "MSRP" :  169,
+	  "QtyOnHand" :180,
+	  "QtyOnBackOrder" : 0,
+	 "Description" :"Wireless pairing and charging Attaches magnetically Double-tap to change tools Pixel-perfect precision Tilt and pressure sensitivity",
+   "BRAND" : "Apple"
+   
+   },
+   {
+        "Id" : "NIKW4245",
+   "ProductName" : "Nike Sportswear", 
+	 "GraphicName" : "Nike Sportswear",
+	 "CostPrice" :  25,
+	  "MSRP" : 48,
+	  "QtyOnHand" :4,
+	  "QtyOnBackOrder" : 1,
+	 "Description" :"Made from a cotton blend with just a hint of stretch, the Nike Sportswear Tank is an everyday essential with an all-over print reminiscent of the city lights—perfect to layer or wear solo",
+    "BRAND" : "Nike"
+   
+   },
+   
+   {
+    "Id" : "NIKSH4246",
+   "ProductName" : "Women shoes", 
+	 "GraphicName" : "Nike Air Max Plus",
+	 "CostPrice" :  150,
+	  "MSRP" :210,
+	  "QtyOnHand" :100,
+	  "QtyOnBackOrder" : 3,
+	 "Description" :"a tuned Air experience that offers premium stability and unbelievable cushioning.Featuring airy mesh, the original wavy design lines and polished TPU accents on the toe and sides, it celebrates your defiant style",
+      "BRAND" : "Nike"
+   },
+   
+ {
+     "Id" : "NIKGH4247",
+   "ProductName" : "Women Golf Hat", 
+	"GraphicName" : "Nike AeroBill Heritage86",
+	 "CostPrice" :  11,
+	  "MSRP" :30,
+	  "QtyOnHand" :80,
+	  "QtyOnBackOrder" : 0,
+	 "Description" :"op off your look with the Nike AeroBill Heritage86 Hat. The back panels have stylised perforations for ventilation on and off the course",
+     "BRAND" : "Nike"
+ 
+ },
+	{
+        "Id" : "NIKS4248",
+  "ProductName" : "Nike socks", 
+   "GraphicName" : "Nike Everyday Plus Lightweight",
+	 "CostPrice" :  5,
+	  "MSRP" :20,
+	  "QtyOnHand" :40,
+	  "QtyOnBackOrder" : 0,
+	 "Description" :"provides low-profile comfort with a mix of micro-nylon and elastane yarns. The sweat-wicking design is breathable on top to keep your feet cool and dry",
+   "BRAND" : "Nike"
+ 
+  },
+	 {
+         "Id" : "NIKJ4249",
+   "ProductName" : "Men''s Football Jacket", 
+	 "GraphicName" : "Atlético Madrid Repel Academy AWF",
+	 "CostPrice" : 50.80,
+	  "MSRP" :95,
+	  "QtyOnHand" : 30,
+	  "QtyOnBackOrder" : 0,
+	 "Description" :"lightweight layer with a water-repellent coating and mesh lining for days when you have to brave the rain, but don''t want to be soaked.This product is made from at least 75% recycled polyester fibres",
+   "BRAND" : "Nike"
+   
+   
+   }
+	 ]

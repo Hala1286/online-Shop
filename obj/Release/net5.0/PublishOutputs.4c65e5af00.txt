@@ -1,0 +1,81 @@
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\CaseStudy.exe
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\cart.28dea43a.jpg
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\color.473bc8ca.png
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\index.35cb893b.css
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\index.7ad2ebf6.js
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\index.e3d2bb76.js
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\logoHala.png
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\primeicons.3929b551.woff
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\primeicons.7362b83d.eot
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\primeicons.8f9d2aaf.svg
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\primeicons.c1e93246.ttf
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\roboto-v20-latin-ext_latin-500.d092ad8e.woff
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\roboto-v20-latin-ext_latin-500.fa074f87.woff2
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\roboto-v20-latin-ext_latin-700.8d9364a0.woff2
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\roboto-v20-latin-ext_latin-700.e24c2752.woff
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\roboto-v20-latin-ext_latin-regular.b86b128b.woff2
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\roboto-v20-latin-ext_latin-regular.e70a908b.woff
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\vendor.017c7345.js
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\wwwroot\BranchesDataSQL.txt
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\wwwroot\favicon.ico
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\wwwroot\img\28 cu.ft. Smart wi-fi Enabled French Door Refrigerator.jpg
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\wwwroot\img\77 LG OLED TV C9 ThinQ AI.jpg
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\wwwroot\img\Apple AirPods Pro.jpg
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\wwwroot\img\Apple Pencil 2nd generation.jpg
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\wwwroot\img\Apple Watch SE.jpg
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\wwwroot\img\Atlético Madrid Repel Academy AWF.jpg
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\wwwroot\img\DUALCOOL PRESTIGE 12,000 BTU, ThinQ, -30 Hyper Heating operation.jpg
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\wwwroot\img\HomePod mini.jpg
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\wwwroot\img\iPad Pro The ultimate iPad experience.jpg
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\wwwroot\img\LG CordZero A9 Charge Plus Cordless Stick Vacuum.jpg
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\wwwroot\img\Nike AeroBill Heritage86.jpg
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\wwwroot\img\Nike Air Max Plus.jpg
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\wwwroot\img\Nike Everyday Plus Lightweight.jpg
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\wwwroot\img\Nike Sportswear.jpg
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\wwwroot\img\Single Unit Front Load LG WashTower™ with Centre Control™ 5.2 cu. ft. Washer and 7.4 cu. ft. Electric Dryer.jpg
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\wwwroot\index.html
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\wwwroot\logoHala2.png
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\wwwroot\product.jpg
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\wwwroot\products.json
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\CaseStudy.dll
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\CaseStudy.runtimeconfig.json
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\CaseStudy.pdb
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\Castle.Core.dll
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\Microsoft.Data.SqlClient.dll
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\Microsoft.Identity.Client.dll
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\Microsoft.IdentityModel.Logging.dll
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\System.Configuration.ConfigurationManager.dll
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\System.Runtime.Caching.dll
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hala1\Desktop\4thSemester\ASP.NET\INFO3067\CaseStudy\CaseStudy\obj\Release\net5.0\PubTmp\Out\CaseStudy.deps.json
